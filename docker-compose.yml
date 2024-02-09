@@ -7,6 +7,6 @@ services:
     ports:
       - 5432
     environment:
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=root
-      - POSTGRES_DB=pg_nlw
+      - POSTGRES_USER= usuario do postgr
+      - POSTGRES_PASSWORD= senha do postgres
+      - POSTGRES_DB= NomeDoDB
